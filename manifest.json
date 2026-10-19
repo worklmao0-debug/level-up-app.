@@ -1,0 +1,19 @@
+{
+  "name": "LEVEL UP \u2014 Become Your Next Self",
+  "short_name": "LEVEL UP",
+  "description": "A customizable offline-first personal growth RPG, habit tracker, achievement journal and XP progression system.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080b16",
+  "theme_color": "#080b16",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
